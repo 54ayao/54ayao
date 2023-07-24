@@ -4,3 +4,6 @@
 <p>I am mainly active in the WeChat groups of Tencent Cloud Developer Pioneer (TDP) and Tencent Cloud Product Group</p>
 <p>I mainly do some public welfare projects</p>
 <p>Like what!</p>
+<p><a href="https://jsd.cdn.zzko.cn" target="_blank">Chinese mainland JSDELIVR mirror site</p>
+<p><a href="https://cdnjs.cdn.zzko.cn" target="_blank">Chinese mainland CDNJS mirror site</p>
+
