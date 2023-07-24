@@ -8,8 +8,6 @@
 <p><a href="https://jsd.cdn.zzko.cn" target="_blank">Chinese mainland JSDELIVR mirror site</p>
 <p><a href="https://cdnjs.cdn.zzko.cn" target="_blank">Chinese mainland CDNJS mirror site</p>
 
-
-
 [<span><img src="https://github-readme-stats.vercel.app/api?username=54ayao" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=54ayao" height=150/></span>](https://www.ayao.ltd/)
 
 
@@ -24,3 +22,11 @@
 <p><a href="https://www.cuteapi.cn" target="_blank">www.cuteapi.cn</p>
 <p><a href="https://zeyao.net" target="_blank">zeyao.net</p>
 ....
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+本文总阅读量 <span id="busuanzi_value_page_pv"></span> 次
+
+本站总访问量 <span id="busuanzi_value_site_pv"></span> 次
+
+本站总访客数 <span id="busuanzi_value_site_uv"></span> 人
