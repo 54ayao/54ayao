@@ -23,7 +23,4 @@
 <p><a href="https://www.cuteapi.com" target="_blank">www.cuteapi.com</p>
 <p><a href="https://www.cuteapi.cn" target="_blank">www.cuteapi.cn</p>
 <p><a href="https://zeyao.net" target="_blank">zeyao.net</p>
-<p><a href="https://jsd.cdn.zzko.cn" target="_blank">Chinese mainland JSDELIVR mirror site</p>
-<p><a href="https://jsd.cdn.zzko.cn" target="_blank">Chinese mainland JSDELIVR mirror site</p>
-<p><a href="https://jsd.cdn.zzko.cn" target="_blank">Chinese mainland JSDELIVR mirror site</p>
-<p><a href="https://jsd.cdn.zzko.cn" target="_blank">Chinese mainland JSDELIVR mirror site</p>
+....
